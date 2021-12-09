@@ -1,6 +1,6 @@
 # Nerkh Arz
 
-Nerkh Arz - 14 Ta az behtarin Arz ha :)
+Get virtual currency rates with Python :)
 
 # Python Version : 3
 # Packages 
